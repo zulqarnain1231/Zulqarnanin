@@ -14,8 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nextjs,html,css,javascript,bootstrap,typescript,tailwindcss,mongodb,mongoose,,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=git,react,nextjs,javascript,jquery,html,css,bootstrap,typescript,materialui,tailwindcss,mongodb,mysql,nodejs,expressjs,vscode,postman" />
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-nobody1&show_icons=true&locale=en&layout=compact" alt="mr-nobody1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulqarnain1231&show_icons=true&locale=en&layout=compact" alt="zulqarnain1231" /></p>
