@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Zulqarnain</h1>
-<h3 align="center">A Passionate React Developer From Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Web And Mobile App Developer From Pakistan</h3>
 <img align="right"alt="Coding"width="400"src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
 
